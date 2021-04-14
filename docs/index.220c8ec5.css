@@ -1,2 +1,0 @@
-body{justify-content:center;align-items:center;height:100vh;width:100vw;margin:0}body,div#column{display:flex;flex-direction:column}img#logotype{margin-bottom:6rem;align-self:flex-start}ul#contact{list-style:inside none;padding:0;margin-left:100px}ul#contact li{font-family:sans-serif;font-size:.75rem;margin-bottom:.25rem}ul#contact li span{width:1rem;display:inline-block;text-align:center}ul#contact li#phone span{font-size:1.25rem;line-height:.75rem;vertical-align:middle}ul#contact li a{text-decoration:none;color:#000}
-/*# sourceMappingURL=index.220c8ec5.css.map */
